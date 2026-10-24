@@ -4,14 +4,7 @@ An event ticket booking platform built with **React**, **Spring Boot**, **Postgr
 Users browse events, pick seats, and book them. The main engineering focus is **preventing double booking
 when many users try to book the same seat at the same time**.
 
-> Status: work in progress. See [Project Status](#project-status) for what is done and what is next.
 
-## Screenshots
-
-
-| Login | Event dashboard | Seat selection | Checkout |
-|-------|-----------------|----------------|----------|
-| ![login](docs/login.png) | ![dashboard](docs/dashboard.png) | ![seats](docs/seats.png) | ![checkout](docs/checkout.png) |
 
 
 **Frontend (React + Vite)**
