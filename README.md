@@ -173,9 +173,6 @@ Seat hold and booking endpoints are planned (see below).
 - [ ] "Remember me" (persist login across page refresh)
 
 **Planned**
-- [ ] JWT-based stateless authentication
-- [ ] Seats table and seat map API
-- [ ] Redis seat holds (`SET NX EX`)
 - [ ] Booking service with Postgres row lock and unique constraint
 - [ ] Kafka `SeatBookedEvent` published after commit, with a consumer
 - [ ] Concurrency test proving only one of many simultaneous requests gets a seat
